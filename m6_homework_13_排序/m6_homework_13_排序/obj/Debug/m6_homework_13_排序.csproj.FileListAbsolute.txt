@@ -1,0 +1,7 @@
+C:\pure_csharp\m6_homework_13_排序\m6_homework_13_排序\bin\Debug\m6_homework_13_排序.exe.config
+C:\pure_csharp\m6_homework_13_排序\m6_homework_13_排序\bin\Debug\m6_homework_13_排序.exe
+C:\pure_csharp\m6_homework_13_排序\m6_homework_13_排序\bin\Debug\m6_homework_13_排序.pdb
+C:\pure_csharp\m6_homework_13_排序\m6_homework_13_排序\obj\Debug\m6_homework_13_排序.csprojAssemblyReference.cache
+C:\pure_csharp\m6_homework_13_排序\m6_homework_13_排序\obj\Debug\m6_homework_13_排序.csproj.CoreCompileInputs.cache
+C:\pure_csharp\m6_homework_13_排序\m6_homework_13_排序\obj\Debug\m6_homework_13_排序.exe
+C:\pure_csharp\m6_homework_13_排序\m6_homework_13_排序\obj\Debug\m6_homework_13_排序.pdb
